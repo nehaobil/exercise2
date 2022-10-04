@@ -44,7 +44,6 @@ function Article() {
                     }
                 })
                 }
-                
             </section>
         </main>
     );
